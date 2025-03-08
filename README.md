@@ -1,7 +1,5 @@
 # 3MTT Software Development Class - 2025
 
-# HTML Basics
+# HTML Basics - Mini Project
 
-## Mini Project
-
-## Personal Profile Page
+# Personal Profile Page
