@@ -24,4 +24,11 @@ The goal of this project is to create a personal profile webpage using only HTML
 - Use semantic elements (`<header>`, `<nav>`, `<section>`, `footer`).
 - Ensure the HTML structure is well-organized and readable.
 
+### How Requirements Were Met
+
+- **Header Section**: The header includes a title and a navigation menu with four items: "About Me", "Hobbies", "Portfolio", and "Contact".
+- **Bio Section**: A short bio is provided along with an image of Daniel Zadva Jnr. The image has `alt`, `width`, and `height` attributes for accessibility and to prevent reflow.
+- **Hobbies List**: An unordered list (`<ul>`) is used to list three hobbies: Reading, Coding, and Writing.
+- **Footer Section**: The footer includes contact details with an email address wrapped in an `<a>` tag with a `mailto:` link, and the physical address is provided. The copyright information is also included.
+
 Thank you!
